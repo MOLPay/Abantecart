@@ -1,5 +1,6 @@
 MOLPay Abantecart Extension - Version 1.0
 =====================
+![MOLPay Technical Teams](https://github.com/MOLPay/Prestashop_Plugin/wiki/images/molpay-developer.jpg)
 
 MOLPay Extension for Abantecart developed by MOLPay technical team.
 
@@ -13,6 +14,9 @@ assistance, please email support@molpay.com
 
 Installations for MOLPay Abantecart extension
 -----------------------------
+
+[AbanteCart Seamless 1.2.x](https://github.com/MOLPay/Abantecart/wiki/MOLPay-Abantecart-(Seamless)-Extension)
+
 [Abantecart 1.2.x](https://github.com/MOLPay/Abantecart/wiki/MOLPay-Abantecart-Extension---Installation)
 
 Contribution
