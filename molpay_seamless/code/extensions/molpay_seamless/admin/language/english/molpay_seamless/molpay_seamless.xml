@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>molpay_seamless_name</key>
+		<value><![CDATA[MOLPay (Seamless)]]></value>
+	</definition>
+	<definition>
+		<key>text_seamless_payment</key>
+		<value><![CDATA[Payment]]></value>
+	</definition>
+	<definition>
+		<key>text_seamless_success</key>
+		<value><![CDATA[Success: You have modified MOLPay (seamless) account details!]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_account</key>
+		<value><![CDATA[MOLPay Merchant ID:]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_verify</key>
+		<value>
+			<![CDATA[Verify Key:<br /><span class="help">The verify key to perform transactions with MOLPay(must be the same as defined on the merchant account configuration page.</span>]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_secret</key>
+		<value>
+			<![CDATA[Secret Key:<br /><span class="help">The secret key to confirm transactions with (must be the same as defined on the merchant account configuration page.</span>]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_test</key>
+		<value>
+			<![CDATA[Mode:<br /><span class="help">To run MOLPay in sandbox or production environment.</span>]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_test_Test</key>
+		<value><![CDATA[Test]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_test_Live</key>
+		<value><![CDATA[Live]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_order_status_id</key>
+		<value><![CDATA[Order Status:]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_location_id</key>
+		<value><![CDATA[Location:]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_location_id_0</key>
+		<value><![CDATA[All Locations]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_status</key>
+		<value><![CDATA[Status:]]></value>
+	</definition>
+	<definition>
+		<key>molpay_seamless_autoselect</key>
+		<value>
+			<![CDATA[Auto Select:<br /><span class="help">You can set to skip payment selection page if there is only one payment option. This payment method will be selected automatically</span>]]></value>
+	</definition>
+	<definition>
+		<key>error_seamless_permission</key>
+		<value><![CDATA[Warning: You do not have permission to modify payment MOLPay!]]></value>
+	</definition>
+	<definition>
+		<key>error_seamless_account</key>
+		<value><![CDATA[Merchant ID Required!]]></value>
+	</definition>
+	<definition>
+		<key>error_seamless_verify</key>
+		<value><![CDATA[Verify Key Required!]]></value>
+	</definition>
+	<definition>
+		<key>error_seamless_secret</key>
+		<value><![CDATA[Secret Key Required!]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_payment</key>
+		<value><![CDATA[Enable Payment Channel]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_affinonline</key>
+		<value><![CDATA[Affin Bank(Affin Online)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_amb</key>
+		<value><![CDATA[Am Bank (Am Online)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_bankislam</key>
+		<value><![CDATA[Bank Islam]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_cimbclicks</key>
+		<value><![CDATA[CIMB Bank(CIMB Clicks)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_hlb</key>
+		<value><![CDATA[Hong Leong Bank(HLB Connect)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_maybank2u</key>
+		<value><![CDATA[Maybank(Maybank2u)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_pbb</key>
+		<value><![CDATA[PublicBank (PBB Online)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_rhb</key>
+		<value><![CDATA[RHB Bank(RHB Now)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx</key>
+		<value><![CDATA[MyClear FPX B2C (Maybank2u, CIMB Clicks, HLB Connect, RHB Now, PBB Online, Bank Islam.biz, etc.)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_amb</key>
+		<value><![CDATA[FPX Am Bank (Am Online)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_bimb</key>
+		<value><![CDATA[FPX Bank Islam]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_cimbclicks</key>
+		<value><![CDATA[FPX CIMB Bank(CIMB Clicks)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_hlb</key>
+		<value><![CDATA[FPX Hong Leong Bank(HLB Connect)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_mb2u</key>
+		<value><![CDATA[FPX Maybank(Maybank2u)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_pbb</key>
+		<value><![CDATA[FPX PublicBank (PBB Online)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_fpx_rhb</key>
+		<value><![CDATA[FPX RHB Bank(RHB Now)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_OCBC</key>
+		<value><![CDATA[FPX OCBC Bank]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_SCB</key>
+		<value><![CDATA[FPX Standard Chartered Bank]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_ABB</key>
+		<value><![CDATA[FPX Affin Bank Berhad]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_BKRM</key>
+		<value><![CDATA[FPX Bank Kerjasama Rakyat Malaysia Berhad]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_BMMB</key>
+		<value><![CDATA[FPX Bank Muamalat]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_KFH</key>
+		<value><![CDATA[FPX Kuwait Finance House]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_BSN</key>
+		<value><![CDATA[FPX Bank Simpanan Nasional]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_ABMB</key>
+		<value><![CDATA[FPX Alliance Bank Malaysia Berhad]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_FPX_UOB</key>
+		<value><![CDATA[FPX United Overseas Bank]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_cash-711</key>
+		<value><![CDATA[7-Eleven(MOLPay Cash)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_credit</key>
+		<value><![CDATA[Credit Card/ Debit Card]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_ATMVA</key>
+		<value><![CDATA[ATM Transfer via Permata Bank]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_dragonpay</key>
+		<value><![CDATA[Dragonpay]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_paysbuy</key>
+		<value><![CDATA[PaysBuy]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_Point-BCard</key>
+		<value><![CDATA[Bcard points]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_credit3</key>
+		<value><![CDATA[Credit Card/ Debit Card]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_NGANLUONG</key>
+		<value><![CDATA[NGANLUONG]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_crossborder</key>
+		<value><![CDATA[Credit Card/ Debit Card]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_paypal</key>
+		<value><![CDATA[PayPal]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_enetsD</key>
+		<value><![CDATA[eNETS]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_UPOP</key>
+		<value><![CDATA[China Union pay]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_alipay</key>
+		<value><![CDATA[Alipay.com]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_polipayment</key>
+		<value><![CDATA[POLi Payment]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_cash-epay</key>
+		<value><![CDATA[e-pay]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_WEBCASH</key>
+		<value><![CDATA[WEBCASH]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_PEXPLUS</key>
+		<value><![CDATA[PEx+]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_jompay</key>
+		<value><![CDATA[JOMPay]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_Cash-Esapay</key>
+		<value><![CDATA[Cash Esapay]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_TH_PB_SCBPN</key>
+		<value><![CDATA[Paysbuy SCBPN]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_TH_PB_KTBPN</key>
+		<value><![CDATA[Paysbuy KTBPN]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_TH_PB_BBLPN</key>
+		<value><![CDATA[Paysbuy BBLPN]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_TH_PB_BAYPN</key>
+		<value><![CDATA[Paysbuy BAYPN]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_TH_PB_CASH</key>
+		<value><![CDATA[Paysbuy CASH]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-ewallet</key>
+		<value><![CDATA[VTC Pay Channels (E-Wallet)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-bank</key>
+		<value><![CDATA[VTC Pay Channels (Banks)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-credit</key>
+		<value><![CDATA[VTC Pay Channels (Credit Card)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-ewalletbank</key>
+		<value><![CDATA[VTC Pay Channels (E-Wallet & Banks)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-ewalletcredit</key>
+		<value><![CDATA[VTC Pay Channels (E-Wallet & Credit Card)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-bankcredit</key>
+		<value><![CDATA[VTC Pay Channels (Banks & Credit Card]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-vietcombank</key>
+		<value><![CDATA[VTC Pay Channels (Vietcombank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-techcombank</key>
+		<value><![CDATA[VTC Pay Channels (Techcom Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-mb</key>
+		<value><![CDATA[VTC Pay Channels (MB)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-vietinbank</key>
+		<value><![CDATA[VTC Pay Channels (Vietin Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-agribank</key>
+		<value><![CDATA[VTC Pay Channels (Agribank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-dongabank</key>
+		<value><![CDATA[VTC Pay Channels (Dong A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-oceanbank</key>
+		<value><![CDATA[VTC Pay Channels (Ocean Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-bidv</key>
+		<value><![CDATA[VTC Pay Channels (BIDV)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-shb</key>
+		<value><![CDATA[VTC Pay Channels (SHB)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-vib</key>
+		<value><![CDATA[VTC Pay Channels (VIB)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-maritimebank</key>
+		<value><![CDATA[VTC Pay Channels (Maritime Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-eximbank</key>
+		<value><![CDATA[VTC Pay Channels (Eximbank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-acb</key>
+		<value><![CDATA[VTC Pay Channels (ACB)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-hdbank</key>
+		<value><![CDATA[VTC Pay Channels (HD Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-namabank</key>
+		<value><![CDATA[VTC Pay Channels (Nam A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-saigonbank</key>
+		<value><![CDATA[VTC Pay Channels (Saigon Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-sacombank</key>
+		<value><![CDATA[VTC Pay Channels (Sacombank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-vietabank</key>
+		<value><![CDATA[VTC Pay Channels (Viet A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-vpbank</key>
+		<value><![CDATA[VTC Pay Channels (VP Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-tienphongbank</key>
+		<value><![CDATA[VTC Pay Channels (TP Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-seaabank</key>
+		<value><![CDATA[VTC Pay Channels (Sea Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-pgbank</key>
+		<value><![CDATA[VTC Pay Channels (PG Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-navibank</key>
+		<value><![CDATA[VTC Pay Channels (Navi Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-gpbank</key>
+		<value><![CDATA[VTC Pay Channels (GP Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-bacabank</key>
+		<value><![CDATA[VTC Pay Channels (Bac A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-phuongdong</key>
+		<value><![CDATA[VTC Pay Channels (Local Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-abbank</key>
+		<value><![CDATA[VTC Pay Channels (AB Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-lienvietpostbank</key>
+		<value><![CDATA[VTC Pay Channels (Lienviet Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_vtcpay-bvb</key>
+		<value><![CDATA[VTC Pay Channels (Baoviet Bank)]]></value>
+	</definition>
+	<definition>
+		<key>mps_ch_enable_singpost</key>
+		<value><![CDATA[Cash-SAM]]></value>
+	</definition>
+</definitions>

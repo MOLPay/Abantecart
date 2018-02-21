@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>text_title</key>
+		<value><![CDATA[MOLPay - Leading Payment Gateway in South East Asia]]></value>
+	</definition>
+	<definition>
+		<key>affinonline</key>
+		<value><![CDATA[Affin Bank(Affin Online)]]></value>
+	</definition>
+	<definition>
+		<key>amb</key>
+		<value><![CDATA[Am Bank (Am Online)]]></value>
+	</definition>
+	<definition>
+		<key>bankislam</key>
+		<value><![CDATA[Bank Islam]]></value>
+	</definition>
+	<definition>
+		<key>cimbclicks</key>
+		<value><![CDATA[CIMB Bank(CIMB Clicks)]]></value>
+	</definition>
+	<definition>
+		<key>hlb</key>
+		<value><![CDATA[Hong Leong Bank(HLB Connect)]]></value>
+	</definition>
+	<definition>
+		<key>maybank2u</key>
+		<value><![CDATA[Maybank(Maybank2u)]]></value>
+	</definition>
+	<definition>
+		<key>pbb</key>
+		<value><![CDATA[PublicBank (PBB Online)]]></value>
+	</definition>
+	<definition>
+		<key>rhb</key>
+		<value><![CDATA[RHB Bank(RHB Now)]]></value>
+	</definition>
+	<definition>
+		<key>fpx</key>
+		<value><![CDATA[MyClear FPX B2C (Maybank2u, CIMB Clicks, HLB Connect, RHB Now, PBB Online, Bank Islam.biz, etc.)]]></value>
+	</definition>
+	<definition>
+		<key>fpx_amb</key>
+		<value><![CDATA[FPX Am Bank (Am Online)]]></value>
+	</definition>
+	<definition>
+		<key>fpx_bimb</key>
+		<value><![CDATA[FPX Bank Islam]]></value>
+	</definition>
+	<definition>
+		<key>fpx_cimbclicks</key>
+		<value><![CDATA[FPX CIMB Bank(CIMB Clicks)]]></value>
+	</definition>
+	<definition>
+		<key>fpx_hlb</key>
+		<value><![CDATA[FPX Hong Leong Bank(HLB Connect)]]></value>
+	</definition>
+	<definition>
+		<key>fpx_mb2u</key>
+		<value><![CDATA[FPX Maybank(Maybank2u)]]></value>
+	</definition>
+	<definition>
+		<key>fpx_pbb</key>
+		<value><![CDATA[FPX PublicBank (PBB Online)]]></value>
+	</definition>
+	<definition>
+		<key>fpx_rhb</key>
+		<value><![CDATA[FPX RHB Bank(RHB Now)]]></value>
+	</definition>
+	<definition>
+		<key>FPX_OCBC</key>
+		<value><![CDATA[FPX OCBC Bank]]></value>
+	</definition>
+	<definition>
+		<key>FPX_SCB</key>
+		<value><![CDATA[FPX Standard Chartered Bank]]></value>
+	</definition>
+	<definition>
+		<key>FPX_ABB</key>
+		<value><![CDATA[FPX Affin Bank Berhad]]></value>
+	</definition>
+	<definition>
+		<key>FPX_BKRM</key>
+		<value><![CDATA[FPX Bank Kerjasama Rakyat Malaysia Berhad]]></value>
+	</definition>
+	<definition>
+		<key>FPX_BMMB</key>
+		<value><![CDATA[FPX Bank Muamalat]]></value>
+	</definition>
+	<definition>
+		<key>FPX_KFH</key>
+		<value><![CDATA[FPX Kuwait Finance House]]></value>
+	</definition>
+	<definition>
+		<key>FPX_BSN</key>
+		<value><![CDATA[FPX Bank Simpanan Nasional]]></value>
+	</definition>
+	<definition>
+		<key>FPX_ABMB</key>
+		<value><![CDATA[FPX Alliance Bank Malaysia Berhad]]></value>
+	</definition>
+	<definition>
+		<key>FPX_UOB</key>
+		<value><![CDATA[FPX United Overseas Bank]]></value>
+	</definition>
+	<definition>
+		<key>cash-711</key>
+		<value><![CDATA[7-Eleven(MOLPay Cash)]]></value>
+	</definition>
+	<definition>
+		<key>credit</key>
+		<value><![CDATA[Credit Card/ Debit Card]]></value>
+	</definition>
+	<definition>
+		<key>ATMVA</key>
+		<value><![CDATA[ATM Transfer via Permata Bank]]></value>
+	</definition>
+	<definition>
+		<key>dragonpay</key>
+		<value><![CDATA[Dragonpay]]></value>
+	</definition>
+	<definition>
+		<key>paysbuy</key>
+		<value><![CDATA[PaysBuy]]></value>
+	</definition>
+	<definition>
+		<key>Point-BCard</key>
+		<value><![CDATA[Bcard points]]></value>
+	</definition>
+	<definition>
+		<key>credit3</key>
+		<value><![CDATA[Credit Card/ Debit Card]]></value>
+	</definition>
+	<definition>
+		<key>NGANLUONG</key>
+		<value><![CDATA[NGANLUONG]]></value>
+	</definition>
+	<definition>
+		<key>crossborder</key>
+		<value><![CDATA[Credit Card/ Debit Card]]></value>
+	</definition>
+	<definition>
+		<key>paypal</key>
+		<value><![CDATA[PayPal]]></value>
+	</definition>
+	<definition>
+		<key>enetsD</key>
+		<value><![CDATA[eNETS]]></value>
+	</definition>
+	<definition>
+		<key>UPOP</key>
+		<value><![CDATA[China Union pay]]></value>
+	</definition>
+	<definition>
+		<key>alipay</key>
+		<value><![CDATA[Alipay.com]]></value>
+	</definition>
+	<definition>
+		<key>polipayment</key>
+		<value><![CDATA[POLi Payment]]></value>
+	</definition>
+	<definition>
+		<key>cash-epay</key>
+		<value><![CDATA[e-pay]]></value>
+	</definition>
+	<definition>
+		<key>WEBCASH</key>
+		<value><![CDATA[WEBCASH]]></value>
+	</definition>
+	<definition>
+		<key>PEXPLUS</key>
+		<value><![CDATA[PEx+]]></value>
+	</definition>
+	<definition>
+		<key>jompay</key>
+		<value><![CDATA[JOMPay]]></value>
+	</definition>
+	<definition>
+		<key>Cash-Esapay</key>
+		<value><![CDATA[Cash Esapay]]></value>
+	</definition>
+	<definition>
+		<key>TH_PB_SCBPN</key>
+		<value><![CDATA[Paysbuy SCBPN]]></value>
+	</definition>
+	<definition>
+		<key>TH_PB_KTBPN</key>
+		<value><![CDATA[Paysbuy KTBPN]]></value>
+	</definition>
+	<definition>
+		<key>TH_PB_BBLPN</key>
+		<value><![CDATA[Paysbuy BBLPN]]></value>
+	</definition>
+	<definition>
+		<key>TH_PB_BAYPN</key>
+		<value><![CDATA[Paysbuy BAYPN]]></value>
+	</definition>
+	<definition>
+		<key>TH_PB_CASH</key>
+		<value><![CDATA[Paysbuy CASH]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-ewallet</key>
+		<value><![CDATA[VTC Pay Channels (E-Wallet)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-bank</key>
+		<value><![CDATA[VTC Pay Channels (Banks)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-credit</key>
+		<value><![CDATA[VTC Pay Channels (Credit Card)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-ewalletbank</key>
+		<value><![CDATA[VTC Pay Channels (E-Wallet & Banks)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-ewalletcredit</key>
+		<value><![CDATA[VTC Pay Channels (E-Wallet & Credit Card)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-bankcredit</key>
+		<value><![CDATA[VTC Pay Channels (Banks & Credit Card]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-vietcombank</key>
+		<value><![CDATA[VTC Pay Channels (Vietcombank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-techcombank</key>
+		<value><![CDATA[VTC Pay Channels (Techcom Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-mb</key>
+		<value><![CDATA[VTC Pay Channels (MB)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-vietinbank</key>
+		<value><![CDATA[VTC Pay Channels (Vietin Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-agribank</key>
+		<value><![CDATA[VTC Pay Channels (Agribank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-dongabank</key>
+		<value><![CDATA[VTC Pay Channels (Dong A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-oceanbank</key>
+		<value><![CDATA[VTC Pay Channels (Ocean Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-bidv</key>
+		<value><![CDATA[VTC Pay Channels (BIDV)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-shb</key>
+		<value><![CDATA[VTC Pay Channels (SHB)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-vib</key>
+		<value><![CDATA[VTC Pay Channels (VIB)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-maritimebank</key>
+		<value><![CDATA[VTC Pay Channels (Maritime Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-eximbank</key>
+		<value><![CDATA[VTC Pay Channels (Eximbank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-acb</key>
+		<value><![CDATA[VTC Pay Channels (ACB)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-hdbank</key>
+		<value><![CDATA[VTC Pay Channels (HD Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-namabank</key>
+		<value><![CDATA[VTC Pay Channels (Nam A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-saigonbank</key>
+		<value><![CDATA[VTC Pay Channels (Saigon Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-sacombank</key>
+		<value><![CDATA[VTC Pay Channels (Sacombank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-vietabank</key>
+		<value><![CDATA[VTC Pay Channels (Viet A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-vpbank</key>
+		<value><![CDATA[VTC Pay Channels (VP Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-tienphongbank</key>
+		<value><![CDATA[VTC Pay Channels (TP Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-seaabank</key>
+		<value><![CDATA[VTC Pay Channels (Sea Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-pgbank</key>
+		<value><![CDATA[VTC Pay Channels (PG Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-navibank</key>
+		<value><![CDATA[VTC Pay Channels (Navi Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-gpbank</key>
+		<value><![CDATA[VTC Pay Channels (GP Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-bacabank</key>
+		<value><![CDATA[VTC Pay Channels (Bac A Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-phuongdong</key>
+		<value><![CDATA[VTC Pay Channels (Local Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-abbank</key>
+		<value><![CDATA[VTC Pay Channels (AB Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-lienvietpostbank</key>
+		<value><![CDATA[VTC Pay Channels (Lienviet Bank)]]></value>
+	</definition>
+	<definition>
+		<key>vtcpay-bvb</key>
+		<value><![CDATA[VTC Pay Channels (Baoviet Bank)]]></value>
+	</definition>
+	<definition>
+		<key>singpost</key>
+		<value><![CDATA[Cash-SAM]]></value>
+	</definition>
+</definitions>
